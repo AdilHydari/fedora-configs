@@ -1,0 +1,123 @@
+password = [
+    48,
+    48,
+    97,
+    115,
+    69,
+    75,
+    70,
+    112,
+    53,
+    105,
+    53,
+    69,
+    73,
+    78,
+    56,
+    97,
+    76,
+    85,
+    69,
+    66,
+    83,
+    79,
+    102,
+    82,
+    104,
+    84,
+    103,
+    90,
+    87,
+    116,
+    120,
+    86,
+    112,
+    104,
+    103,
+    75,
+    111,
+    76,
+    116,
+    66,
+    51,
+    114,
+    66,
+    122,
+    85,
+    75,
+    82,
+    118,
+    97,
+    68,
+    43,
+    53,
+    50,
+    112,
+    105,
+    67,
+    90,
+    53,
+    108,
+    113,
+    80,
+    67,
+    69,
+    70,
+    89,
+    120,
+]
+size = [
+    0,
+    0,
+    0,
+    0,
+]
+size_ft = [
+    0,
+    0,
+    0,
+    0,
+]
+size_pf = [
+    0,
+    0,
+    0,
+    0,
+]
+view_style = 'adaptive'
+scroll_style = 'scrollauto'
+image_quality = 'balanced'
+custom_image_quality = [50]
+show_remote_cursor = false
+lock_after_session_end = false
+privacy_mode = false
+allow_swap_key = false
+port_forwards = []
+direct_failures = 1
+disable_audio = false
+disable_clipboard = false
+enable_file_transfer = false
+show_quality_monitor = false
+keyboard_mode = 'map'
+view_only = false
+
+[options]
+zoom-cursor = ''
+local_dir = '/home/adilh'
+local_show_hidden = ''
+custom-fps = '30'
+remote_show_hidden = ''
+remote_dir = '{}'
+codec-preference = 'auto'
+
+[ui_flutter]
+wm_RemoteDesktop = '{"width":0.0,"height":0.0,"offsetWidth":0.0,"offsetHeight":0.0,"isMaximized":true}'
+
+[info]
+username = 'adilh'
+hostname = 'adil-ms7c80'
+platform = 'Linux'
+
+[transfer]
+write_jobs = []
+read_jobs = []

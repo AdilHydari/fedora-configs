@@ -1,0 +1,372 @@
+2023-10-13 19:14:02.510 [info] Log level: Info
+2023-10-13 19:14:02.511 [info] Validating found git in: "git"
+2023-10-13 19:14:02.511 [info] Using git "2.41.0" from "git"
+2023-10-13 19:14:59.115 [info] Log level: Info
+2023-10-13 19:14:59.115 [info] Validating found git in: "git"
+2023-10-13 19:14:59.115 [info] Using git "2.41.0" from "git"
+2023-10-13 19:14:59.115 [info] > git rev-parse --show-toplevel [2ms]
+2023-10-13 19:14:59.115 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-10-13 19:14:59.120 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-13 19:14:59.123 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2023-10-13 19:14:59.131 [info] Open repository: /home/adilh/Downloads/Hyprland_dotfiles
+2023-10-13 19:14:59.142 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-13 19:14:59.142 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-10-13 19:14:59.142 [info] > git config --get commit.template [6ms]
+2023-10-13 19:14:59.148 [info] > git rev-parse --show-toplevel [2ms]
+2023-10-13 19:14:59.148 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-10-13 19:14:59.151 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2023-10-13 19:14:59.154 [info] > git rev-parse --show-toplevel [4ms]
+2023-10-13 19:14:59.157 [info] > git rev-parse --git-dir --git-common-dir [0ms]
+2023-10-13 19:14:59.159 [info] Open repository: /home/adilh/Downloads/asahi-audio
+2023-10-13 19:14:59.165 [info] > git config --get commit.template [3ms]
+2023-10-13 19:14:59.166 [info] > git rev-parse --show-toplevel [2ms]
+2023-10-13 19:14:59.166 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-10-13 19:14:59.171 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2023-10-13 19:14:59.174 [info] > git rev-parse --show-toplevel [3ms]
+2023-10-13 19:14:59.174 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-10-13 19:14:59.179 [info] > git rev-parse --show-toplevel [2ms]
+2023-10-13 19:14:59.182 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2023-10-13 19:14:59.184 [info] Open repository: /home/adilh/Downloads/box64
+2023-10-13 19:14:59.189 [info] > git config --get commit.template [2ms]
+2023-10-13 19:14:59.190 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-13 19:14:59.190 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-10-13 19:14:59.201 [info] > git rev-parse --show-toplevel [7ms]
+2023-10-13 19:14:59.203 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2023-10-13 19:14:59.205 [info] Open repository: /home/adilh/Downloads/dtbs
+2023-10-13 19:14:59.209 [info] > git rev-parse --show-toplevel [0ms]
+2023-10-13 19:14:59.209 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-10-13 19:14:59.209 [info] > git config --get commit.template [3ms]
+2023-10-13 19:14:59.214 [info] No remotes found in the git config file.
+2023-10-13 19:14:59.214 [info] > git rev-parse --show-toplevel [3ms]
+2023-10-13 19:14:59.214 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [23ms]
+2023-10-13 19:14:59.219 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [5ms]
+2023-10-13 19:14:59.222 [info] > git rev-parse --git-dir --git-common-dir [4ms]
+2023-10-13 19:14:59.223 [info] Open repository: /home/adilh/Downloads/etcher
+2023-10-13 19:14:59.228 [info] > git status -z -uall [7ms]
+2023-10-13 19:14:59.234 [info] > git rev-parse --show-toplevel [6ms]
+2023-10-13 19:14:59.234 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-10-13 19:14:59.234 [info] > git config --get commit.template [8ms]
+2023-10-13 19:14:59.237 [info] > git config --get commit.template [3ms]
+2023-10-13 19:14:59.240 [info] > git rev-parse --show-toplevel [3ms]
+2023-10-13 19:14:59.240 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-10-13 19:14:59.242 [info] No remotes found in the git config file.
+2023-10-13 19:14:59.245 [info] > git status -z -uall [72ms]
+2023-10-13 19:14:59.245 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2023-10-13 19:14:59.247 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [8ms]
+2023-10-13 19:14:59.250 [info] > git status -z -uall [3ms]
+2023-10-13 19:14:59.251 [info] > git rev-parse --show-toplevel [6ms]
+2023-10-13 19:14:59.260 [info] > git config --get commit.template [2ms]
+2023-10-13 19:14:59.260 [info] > git rev-parse --git-dir --git-common-dir [4ms]
+2023-10-13 19:14:59.262 [info] Open repository: /home/adilh/Downloads/libkrun
+2023-10-13 19:14:59.294 [info] > git rev-parse --show-toplevel [27ms]
+2023-10-13 19:14:59.294 [info] > git config --get commit.template [29ms]
+2023-10-13 19:14:59.298 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [6ms]
+2023-10-13 19:14:59.303 [info] > git status -z -uall [54ms]
+2023-10-13 19:14:59.303 [info] > git rev-parse --git-dir --git-common-dir [5ms]
+2023-10-13 19:14:59.305 [info] Open repository: /home/adilh/Downloads/linux
+2023-10-13 19:14:59.321 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [18ms]
+2023-10-13 19:14:59.336 [info] > git config --get commit.template [15ms]
+2023-10-13 19:14:59.336 [info] > git rev-parse --show-toplevel [18ms]
+2023-10-13 19:14:59.336 [info] > git config --get commit.template [21ms]
+2023-10-13 19:14:59.346 [info] > git status -z -uall [45ms]
+2023-10-13 19:14:59.346 [info] > git rev-parse --git-dir --git-common-dir [7ms]
+2023-10-13 19:14:59.348 [info] Open repository: /home/adilh/Downloads/macaudio-userutils
+2023-10-13 19:14:59.353 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [8ms]
+2023-10-13 19:14:59.356 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/sound/speaker-safety refs/remotes/sound/speaker-safety [13ms]
+2023-10-13 19:14:59.361 [info] > git rev-parse --show-toplevel [8ms]
+2023-10-13 19:14:59.361 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-10-13 19:14:59.361 [info] > git config --get commit.template [11ms]
+2023-10-13 19:14:59.369 [info] > git rev-parse --show-toplevel [4ms]
+2023-10-13 19:14:59.369 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-10-13 19:14:59.384 [info] > git status -z -uall [59ms]
+2023-10-13 19:14:59.384 [info] > git status -z -uall [28ms]
+2023-10-13 19:14:59.390 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [21ms]
+2023-10-13 19:14:59.407 [info] > git rev-parse --show-toplevel [24ms]
+2023-10-13 19:14:59.422 [info] > git status -z -uall [23ms]
+2023-10-13 19:14:59.422 [info] > git config --get commit.template [16ms]
+2023-10-13 19:14:59.442 [info] > git rev-parse --git-dir --git-common-dir [20ms]
+2023-10-13 19:14:59.447 [info] Open repository: /home/adilh/Downloads/poky
+2023-10-13 19:14:59.470 [info] > git config --get commit.template [29ms]
+2023-10-13 19:14:59.470 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [36ms]
+2023-10-13 19:14:59.475 [info] > git config --get commit.template [6ms]
+2023-10-13 19:14:59.475 [info] > git rev-parse --show-toplevel [9ms]
+2023-10-13 19:14:59.487 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [9ms]
+2023-10-13 19:14:59.493 [info] > git rev-parse --git-dir --git-common-dir [9ms]
+2023-10-13 19:14:59.495 [info] Open repository: /home/adilh/Downloads/qemu
+2023-10-13 19:14:59.500 [info] > git status -z -uall [26ms]
+2023-10-13 19:14:59.500 [info] > git status -z -uall [8ms]
+2023-10-13 19:14:59.502 [info] > git rev-parse --show-toplevel [2ms]
+2023-10-13 19:14:59.502 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-10-13 19:14:59.502 [info] > git config --get commit.template [4ms]
+2023-10-13 19:14:59.502 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/mymaster-next refs/remotes/mymaster-next [16ms]
+2023-10-13 19:14:59.522 [info] > git status -z -uall [306ms]
+2023-10-13 19:14:59.522 [info] > git rev-parse --show-toplevel [9ms]
+2023-10-13 19:14:59.529 [info] > git rev-parse --git-dir --git-common-dir [3ms]
+2023-10-13 19:14:59.531 [info] Open repository: /home/adilh/Downloads/speakersafetyd
+2023-10-13 19:14:59.535 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [14ms]
+2023-10-13 19:14:59.537 [info] > git config --get commit.template [8ms]
+2023-10-13 19:14:59.540 [info] > git rev-parse --show-toplevel [5ms]
+2023-10-13 19:14:59.540 [info] > git config --get commit.template [7ms]
+2023-10-13 19:14:59.544 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2023-10-13 19:14:59.548 [info] > git rev-parse --git-dir --git-common-dir [5ms]
+2023-10-13 19:14:59.551 [info] Open repository: /home/adilh/Downloads/swww
+2023-10-13 19:14:59.558 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-13 19:14:59.558 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-10-13 19:14:59.558 [info] > git config --get commit.template [5ms]
+2023-10-13 19:14:59.558 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/wip/locking_and_catchup refs/remotes/wip/locking_and_catchup [10ms]
+2023-10-13 19:14:59.569 [info] > git status -z -uall [9ms]
+2023-10-13 19:14:59.574 [info] > git rev-parse --show-toplevel [9ms]
+2023-10-13 19:14:59.574 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-10-13 19:14:59.579 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [10ms]
+2023-10-13 19:14:59.582 [info] > git rev-parse --show-toplevel [3ms]
+2023-10-13 19:14:59.582 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-10-13 19:14:59.582 [info] > git config --get commit.template [9ms]
+2023-10-13 19:14:59.587 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/wip/locking_and_catchup refs/remotes/wip/locking_and_catchup [4ms]
+2023-10-13 19:14:59.590 [info] > git rev-parse --show-toplevel [3ms]
+2023-10-13 19:14:59.592 [info] > git status -z -uall [11ms]
+2023-10-13 19:14:59.592 [info] > git status -z -uall [3ms]
+2023-10-13 19:14:59.597 [info] > git rev-parse --git-dir --git-common-dir [6ms]
+2023-10-13 19:14:59.599 [info] Open repository: /home/adilh/Downloads/widevine-fedora-aarch64
+2023-10-13 19:14:59.605 [info] > git status -z -uall [60ms]
+2023-10-13 19:14:59.605 [info] > git config --get commit.template [8ms]
+2023-10-13 19:14:59.607 [info] > git rev-parse --show-toplevel [2ms]
+2023-10-13 19:14:59.607 [info] > git config --get commit.template [5ms]
+2023-10-13 19:14:59.619 [info] > git status -z -uall [260ms]
+2023-10-13 19:14:59.619 [info] > git rev-parse --git-dir --git-common-dir [4ms]
+2023-10-13 19:14:59.620 [info] Open repository: /home/adilh/Downloads/wireplumber
+2023-10-13 19:14:59.621 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [9ms]
+2023-10-13 19:14:59.626 [info] > git status -z -uall [4ms]
+2023-10-13 19:14:59.626 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [8ms]
+2023-10-13 19:14:59.633 [info] > git status -z -uall [5ms]
+2023-10-13 19:14:59.635 [info] > git config --get commit.template [10ms]
+2023-10-13 19:14:59.639 [info] > git config --get commit.template [6ms]
+2023-10-13 19:14:59.642 [info] > git config --get commit.template [3ms]
+2023-10-13 19:14:59.648 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/dsp-monitor refs/remotes/dsp-monitor [6ms]
+2023-10-13 19:14:59.650 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2023-10-13 19:14:59.653 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/sound/speaker-safety refs/remotes/sound/speaker-safety [8ms]
+2023-10-13 19:14:59.658 [info] > git status -z -uall [5ms]
+2023-10-13 19:14:59.726 [info] > git status -z -uall [76ms]
+2023-10-13 19:14:59.731 [info] > git config --get commit.template [0ms]
+2023-10-13 19:14:59.734 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/dsp-monitor refs/remotes/dsp-monitor [0ms]
+2023-10-13 19:14:59.749 [info] > git status -z -uall [92ms]
+2023-10-13 19:14:59.770 [info] > git status -z -uall [30ms]
+2023-10-13 19:14:59.778 [info] > git status -z -uall [241ms]
+2023-10-13 19:14:59.784 [info] > git config --get commit.template [1ms]
+2023-10-13 19:14:59.789 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-10-13 19:14:59.885 [info] > git status -z -uall [91ms]
+2023-10-13 19:14:59.903 [info] > git status -z -uall [748ms]
+2023-10-13 19:14:59.921 [info] > git config --get commit.template [2ms]
+2023-10-13 19:14:59.928 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [0ms]
+2023-10-13 19:14:59.962 [info] > git status -z -uall [458ms]
+2023-10-13 19:14:59.968 [info] > git config --get commit.template [1ms]
+2023-10-13 19:14:59.972 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/mymaster-next refs/remotes/mymaster-next [1ms]
+2023-10-13 19:15:00.093 [info] > git status -z -uall [117ms]
+2023-10-13 19:15:00.163 [info] > git check-ignore -v -z --stdin [24ms]
+2023-10-13 19:15:00.163 [info] > git check-ignore -v -z --stdin [21ms]
+2023-10-13 19:15:00.164 [info] > git check-ignore -v -z --stdin [21ms]
+2023-10-13 19:15:00.164 [info] > git check-ignore -v -z --stdin [19ms]
+2023-10-13 19:15:00.164 [info] > git check-ignore -v -z --stdin [17ms]
+2023-10-13 19:15:00.164 [info] > git check-ignore -v -z --stdin [16ms]
+2023-10-13 19:15:00.164 [info] > git check-ignore -v -z --stdin [15ms]
+2023-10-13 19:15:00.164 [info] > git check-ignore -v -z --stdin [13ms]
+2023-10-13 19:15:00.164 [info] > git check-ignore -v -z --stdin [11ms]
+2023-10-13 19:15:00.164 [info] > git check-ignore -v -z --stdin [9ms]
+2023-10-13 19:15:00.165 [info] > git check-ignore -v -z --stdin [9ms]
+2023-10-13 19:15:00.165 [info] > git check-ignore -v -z --stdin [4ms]
+2023-10-13 19:15:00.165 [info] > git check-ignore -v -z --stdin [7ms]
+2023-10-13 19:15:00.165 [info] > git check-ignore -v -z --stdin [5ms]
+2023-10-13 19:15:00.284 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-13 19:15:00.287 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2023-10-13 19:15:00.289 [info] Open repository: /home/adilh/Downloads/etcher/scripts/resin
+2023-10-13 19:15:00.293 [info] > git config --get commit.template [2ms]
+2023-10-13 19:15:00.293 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-13 19:15:00.299 [info] > git for-each-ref --format %(refname) %(objectname) %(*objectname) refs/tags [3ms]
+2023-10-13 19:15:00.302 [info] > git rev-parse --git-dir --git-common-dir [3ms]
+2023-10-13 19:15:00.304 [info] Open repository: /home/adilh/Downloads/qemu/roms/seabios
+2023-10-13 19:15:00.310 [info] > git status -z -uall [8ms]
+2023-10-13 19:15:00.315 [info] > git rev-parse --show-toplevel [6ms]
+2023-10-13 19:15:00.315 [info] > git config --get commit.template [9ms]
+2023-10-13 19:15:00.318 [info] > git config --get commit.template [3ms]
+2023-10-13 19:15:00.323 [info] > git rev-parse --git-dir --git-common-dir [5ms]
+2023-10-13 19:15:00.324 [info] Open repository: /home/adilh/Downloads/qemu/roms/SLOF
+2023-10-13 19:15:00.331 [info] > git for-each-ref --format %(refname) %(objectname) %(*objectname) refs/tags [7ms]
+2023-10-13 19:15:00.333 [info] > git for-each-ref --format %(refname) %(objectname) %(*objectname) refs/tags [13ms]
+2023-10-13 19:15:00.336 [info] > git status -z -uall [3ms]
+2023-10-13 19:15:00.337 [info] > git rev-parse --show-toplevel [7ms]
+2023-10-13 19:15:00.337 [info] > git config --get commit.template [9ms]
+2023-10-13 19:15:00.339 [info] > git status -z -uall [3ms]
+2023-10-13 19:15:00.345 [info] > git rev-parse --git-dir --git-common-dir [6ms]
+2023-10-13 19:15:00.347 [info] Open repository: /home/adilh/Downloads/qemu/roms/ipxe
+2023-10-13 19:15:00.355 [info] > git config --get commit.template [10ms]
+2023-10-13 19:15:00.355 [info] > git for-each-ref --format %(refname) %(objectname) %(*objectname) refs/tags [12ms]
+2023-10-13 19:15:00.357 [info] > git rev-parse --show-toplevel [2ms]
+2023-10-13 19:15:00.358 [info] > git config --get commit.template [6ms]
+2023-10-13 19:15:00.364 [info] > git status -z -uall [7ms]
+2023-10-13 19:15:00.364 [info] > git for-each-ref --format %(refname) %(objectname) %(*objectname) refs/tags [4ms]
+2023-10-13 19:15:00.373 [info] > git status -z -uall [5ms]
+2023-10-13 19:15:00.374 [info] > git for-each-ref --format %(refname) %(objectname) %(*objectname) refs/tags [10ms]
+2023-10-13 19:15:00.377 [info] > git rev-parse --git-dir --git-common-dir [15ms]
+2023-10-13 19:15:00.378 [info] Open repository: /home/adilh/Downloads/qemu/roms/openbios
+2023-10-13 19:15:00.387 [info] > git status -z -uall [10ms]
+2023-10-13 19:15:00.388 [info] > git config --get commit.template [15ms]
+2023-10-13 19:15:00.388 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-13 19:15:00.389 [info] > git config --get commit.template [6ms]
+2023-10-13 19:15:00.401 [info] > git rev-parse --git-dir --git-common-dir [4ms]
+2023-10-13 19:15:00.403 [info] Open repository: /home/adilh/Downloads/qemu/roms/qemu-palcode
+2023-10-13 19:15:00.403 [info] > git for-each-ref --format %(refname) %(objectname) %(*objectname) refs/tags [8ms]
+2023-10-13 19:15:00.411 [info] > git status -z -uall [5ms]
+2023-10-13 19:15:00.411 [info] > git for-each-ref --format %(refname) %(objectname) %(*objectname) refs/tags [10ms]
+2023-10-13 19:15:00.414 [info] > git config --get commit.template [15ms]
+2023-10-13 19:15:00.417 [info] > git status -z -uall [3ms]
+2023-10-13 19:15:00.417 [info] > git rev-parse --show-toplevel [6ms]
+2023-10-13 19:15:00.417 [info] > git config --get commit.template [9ms]
+2023-10-13 19:15:00.420 [info] > git for-each-ref --format %(refname) %(objectname) %(*objectname) refs/tags [3ms]
+2023-10-13 19:15:00.428 [info] > git status -z -uall [5ms]
+2023-10-13 19:15:00.428 [info] > git rev-parse --git-dir --git-common-dir [8ms]
+2023-10-13 19:15:00.430 [info] Open repository: /home/adilh/Downloads/qemu/roms/u-boot
+2023-10-13 19:15:00.436 [info] > git config --get commit.template [7ms]
+2023-10-13 19:15:00.436 [info] > git for-each-ref --format %(refname) %(objectname) %(*objectname) refs/tags [9ms]
+2023-10-13 19:15:00.440 [info] > git status -z -uall [2ms]
+2023-10-13 19:15:00.441 [info] > git rev-parse --show-toplevel [6ms]
+2023-10-13 19:15:00.441 [info] > git config --get commit.template [9ms]
+2023-10-13 19:15:00.452 [info] > git rev-parse --git-dir --git-common-dir [3ms]
+2023-10-13 19:15:00.453 [info] Open repository: /home/adilh/Downloads/qemu/roms/skiboot
+2023-10-13 19:15:00.453 [info] > git config --get commit.template [6ms]
+2023-10-13 19:15:00.453 [info] > git for-each-ref --format %(refname) %(objectname) %(*objectname) refs/tags [8ms]
+2023-10-13 19:15:00.469 [info] > git status -z -uall [13ms]
+2023-10-13 19:15:00.469 [info] > git rev-parse --show-toplevel [6ms]
+2023-10-13 19:15:00.469 [info] > git config --get commit.template [8ms]
+2023-10-13 19:15:00.469 [info] > git for-each-ref --format %(refname) %(objectname) %(*objectname) refs/tags [18ms]
+2023-10-13 19:15:00.477 [info] > git for-each-ref --format %(refname) %(objectname) %(*objectname) refs/tags [10ms]
+2023-10-13 19:15:00.483 [info] > git status -z -uall [3ms]
+2023-10-13 19:15:00.483 [info] > git rev-parse --git-dir --git-common-dir [6ms]
+2023-10-13 19:15:00.485 [info] Open repository: /home/adilh/Downloads/qemu/roms/QemuMacDrivers
+2023-10-13 19:15:00.494 [info] > git status -z -uall [560ms]
+2023-10-13 19:15:00.494 [info] > git rev-parse --show-toplevel [3ms]
+2023-10-13 19:15:00.494 [info] > git config --get commit.template [6ms]
+2023-10-13 19:15:00.495 [info] > git for-each-ref --format %(refname) %(objectname) %(*objectname) refs/tags [12ms]
+2023-10-13 19:15:00.500 [info] > git status -z -uall [28ms]
+2023-10-13 19:15:00.506 [info] > git status -z -uall [8ms]
+2023-10-13 19:15:00.506 [info] > git rev-parse --git-dir --git-common-dir [6ms]
+2023-10-13 19:15:00.507 [info] Open repository: /home/adilh/Downloads/qemu/roms/seabios-hppa
+2023-10-13 19:15:00.514 [info] > git config --get commit.template [8ms]
+2023-10-13 19:15:00.514 [info] > git for-each-ref --format %(refname) %(objectname) %(*objectname) refs/tags [10ms]
+2023-10-13 19:15:00.517 [info] > git status -z -uall [1ms]
+2023-10-13 19:15:00.518 [info] > git config --get commit.template [4ms]
+2023-10-13 19:15:00.518 [info] > git rev-parse --show-toplevel [5ms]
+2023-10-13 19:15:00.518 [info] > git config --get commit.template [7ms]
+2023-10-13 19:15:00.531 [info] > git rev-parse --git-dir --git-common-dir [6ms]
+2023-10-13 19:15:00.533 [info] Open repository: /home/adilh/Downloads/qemu/roms/u-boot-sam460ex
+2023-10-13 19:15:00.533 [info] > git config --get commit.template [10ms]
+2023-10-13 19:15:00.533 [info] > git for-each-ref --format %(refname) %(objectname) %(*objectname) refs/tags [13ms]
+2023-10-13 19:15:00.539 [info] > git for-each-ref --format %(refname) %(objectname) %(*objectname) refs/tags [8ms]
+2023-10-13 19:15:00.542 [info] > git for-each-ref --format %(refname) %(objectname) %(*objectname) refs/tags [14ms]
+2023-10-13 19:15:00.549 [info] > git status -z -uall [6ms]
+2023-10-13 19:15:00.549 [info] > git status -z -uall [4ms]
+2023-10-13 19:15:00.549 [info] > git config --get commit.template [10ms]
+2023-10-13 19:15:00.549 [info] > git for-each-ref --format %(refname) %(objectname) %(*objectname) refs/tags [2ms]
+2023-10-13 19:15:00.560 [info] > git status -z -uall [24ms]
+2023-10-13 19:15:00.560 [info] > git status -z -uall [9ms]
+2023-10-13 19:15:00.561 [info] > git config --get commit.template [1ms]
+2023-10-13 19:15:00.561 [info] > git for-each-ref --format %(refname) %(objectname) %(*objectname) refs/tags [5ms]
+2023-10-13 19:15:00.567 [info] > git for-each-ref --format %(refname) %(objectname) %(*objectname) refs/tags [0ms]
+2023-10-13 19:15:00.569 [info] > git status -z -uall [6ms]
+2023-10-13 19:15:00.573 [info] > git status -z -uall [4ms]
+2023-10-13 19:15:00.574 [info] > git config --get commit.template [1ms]
+2023-10-13 19:15:00.576 [info] > git for-each-ref --format %(refname) %(objectname) %(*objectname) refs/tags [0ms]
+2023-10-13 19:15:00.585 [info] > git status -z -uall [6ms]
+2023-10-13 19:15:00.822 [info] > git check-ignore -v -z --stdin [25ms]
+2023-10-13 19:15:00.823 [info] > git check-ignore -v -z --stdin [24ms]
+2023-10-13 19:15:00.823 [info] > git check-ignore -v -z --stdin [20ms]
+2023-10-13 19:15:00.823 [info] > git check-ignore -v -z --stdin [18ms]
+2023-10-13 19:15:00.823 [info] > git check-ignore -v -z --stdin [16ms]
+2023-10-13 19:15:00.824 [info] > git check-ignore -v -z --stdin [13ms]
+2023-10-13 19:15:00.824 [info] > git check-ignore -v -z --stdin [10ms]
+2023-10-13 19:15:00.824 [info] > git check-ignore -v -z --stdin [23ms]
+2023-10-13 19:15:00.824 [info] > git check-ignore -v -z --stdin [15ms]
+2023-10-13 19:15:00.824 [info] > git check-ignore -v -z --stdin [9ms]
+2023-10-13 19:15:00.824 [info] > git check-ignore -v -z --stdin [7ms]
+2023-10-13 19:15:00.825 [info] > git check-ignore -v -z --stdin [7ms]
+2023-10-13 19:15:00.825 [info] > git check-ignore -v -z --stdin [5ms]
+2023-10-13 19:15:00.825 [info] > git check-ignore -v -z --stdin [4ms]
+2023-10-13 19:15:20.778 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-13 19:15:20.778 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-10-13 19:20:45.650 [info] > git rev-parse --show-toplevel [2ms]
+2023-10-13 19:20:45.650 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-10-13 19:20:47.332 [info] > git rev-parse --show-toplevel [0ms]
+2023-10-13 19:20:47.332 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-10-13 19:21:36.297 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-13 19:21:36.297 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-10-13 19:21:37.242 [info] > git rev-parse --show-toplevel [0ms]
+2023-10-13 19:21:37.242 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-10-13 19:21:43.341 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-13 19:21:43.341 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-10-13 19:21:43.346 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-13 19:21:43.346 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-10-13 19:21:43.350 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-13 19:21:43.350 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-10-13 19:22:07.880 [info] > git rev-parse --show-toplevel [0ms]
+2023-10-13 19:22:07.880 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-10-13 19:22:07.926 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-13 19:22:07.926 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-10-13 19:22:09.466 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-13 19:22:09.466 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-10-13 19:22:09.485 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-13 19:22:09.485 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-10-13 19:22:09.490 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-13 19:22:09.490 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-10-13 19:22:11.210 [info] > git rev-parse --show-toplevel [2ms]
+2023-10-13 19:22:11.211 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-10-13 19:22:11.228 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-13 19:22:11.228 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-10-13 19:22:17.179 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-13 19:22:17.179 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-10-13 19:22:17.183 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-13 19:22:17.183 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-10-13 19:22:17.188 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-13 19:22:17.188 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-10-13 20:17:15.649 [info] > git config --get commit.template [3ms]
+2023-10-13 20:17:15.651 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/sound/speaker-safety refs/remotes/sound/speaker-safety [2ms]
+2023-10-13 20:17:15.944 [info] > git status -z -uall [291ms]
+2023-10-13 20:18:42.904 [info] > git config --get commit.template [0ms]
+2023-10-13 20:18:42.909 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/sound/speaker-safety refs/remotes/sound/speaker-safety [1ms]
+2023-10-13 20:18:42.998 [info] > git status -z -uall [84ms]
+2023-10-13 20:32:33.302 [info] > git config --get commit.template [2ms]
+2023-10-13 20:32:33.304 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/sound/speaker-safety refs/remotes/sound/speaker-safety [2ms]
+2023-10-13 20:32:33.633 [info] > git status -z -uall [324ms]
+2023-10-13 20:36:42.905 [info] > git config --get commit.template [5ms]
+2023-10-13 20:36:42.909 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/sound/speaker-safety refs/remotes/sound/speaker-safety [4ms]
+2023-10-13 20:36:43.158 [info] > git status -z -uall [245ms]

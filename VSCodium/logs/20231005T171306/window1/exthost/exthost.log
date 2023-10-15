@@ -1,0 +1,8 @@
+2023-10-05 17:13:07.309 [info] Extension host with pid 70525 started
+2023-10-05 17:13:07.309 [info] Skipping acquiring lock for /home/adilh/.config/VSCodium/User/workspaceStorage/1c52a05d7c1670a926cfca69ffc6c278.
+2023-10-05 17:13:07.319 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-10-05 17:13:07.322 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-10-05 17:13:07.357 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-10-05 17:13:07.389 [info] Eager extensions activated
+2023-10-05 17:13:07.398 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-10-05 17:13:07.399 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'

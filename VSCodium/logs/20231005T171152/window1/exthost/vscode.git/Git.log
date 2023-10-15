@@ -1,0 +1,13 @@
+2023-10-05 17:11:53.823 [info] Log level: Info
+2023-10-05 17:11:53.823 [info] Validating found git in: "git"
+2023-10-05 17:11:53.823 [info] Using git "2.41.0" from "git"
+2023-10-05 17:11:53.823 [info] > git rev-parse --show-toplevel [3ms]
+2023-10-05 17:11:53.823 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2023-10-05 17:11:53.823 [info] Open repository: /home/adilh/Downloads/widevine-aarch64
+2023-10-05 17:11:53.828 [info] > git config --get commit.template [2ms]
+2023-10-05 17:11:53.832 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [0ms]
+2023-10-05 17:11:53.835 [info] > git status -z -uall [1ms]
+2023-10-05 17:11:53.841 [info] > git config --get commit.template [1ms]
+2023-10-05 17:11:53.845 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [0ms]
+2023-10-05 17:11:53.848 [info] > git status -z -uall [1ms]
+2023-10-05 17:11:54.336 [info] > git check-ignore -v -z --stdin [1ms]
